@@ -1,0 +1,6 @@
+{
+  "name": "Line Follower Robot Builder & Simulator",
+  "description": "An interactive, components-driven Line Follower Robot (LFR) simulator. Assemble hardware parts, configure PID algorithms, and run real-time physics simulations on custom tracks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
